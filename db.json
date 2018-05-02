@@ -1,4 +1,5 @@
-[
+{
+"equipments":[
     {
       "toolId": 0,
       "toolName": "tool0",
@@ -25,3 +26,4 @@
       "quantity": 4
     }
   ]
+  }
