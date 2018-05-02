@@ -1,28 +1,29 @@
 {
-  "posts": [
+"posts":[
     {
-      "id": 1,
-      "title": "Post 1"
+      "toolId": 0,
+      "toolName": "tool0",
+      "quantity": 0
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "toolId": 1,
+      "toolName": "tool1",
+      "quantity": 1
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "toolId": 2,
+      "toolName": "tool2",
+      "quantity": 2
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "toolId": 3,
+     "toolName": "tool3",
+      "quantity": 3
+    },
+    {
+      "toolId": 4,
+      "toolName": "tool4",
+      "quantity": 4
     }
   ]
-}
+  }
