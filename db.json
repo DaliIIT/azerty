@@ -19,10 +19,10 @@
       "quantity": 2
     },
     {
-      "toolId": 3,
-     "toolName": "tool3",
-	 "toolPic": "https://cdn.shopclues.com/images/thumbnails/82799/320/320/136185458-82799079-1523964457.jpg",
-      "quantity": 3
+	"toolId": 3,
+	"toolName": "tool3",
+	"toolPic": "https://cdn.shopclues.com/images/thumbnails/82799/320/320/136185458-82799079-1523964457.jpg",
+	"quantity": 3
     },
     {
       "toolId": 4,
@@ -50,5 +50,11 @@
   "password": "user2",
   "admin": "0"
   }
+  ],
+  "jwt":[
+	{
+		"admin":"eyJhbGciOiJIUzUxMiJ9.eyJ1c2VySWQiOjEsInVzZXJOYW1lIjoidXNlcjEiLCJwYXNzd29yZCI6InVzZXIxIiwiYWRtaW4iOiIxIn0.L8V4tLvaETzL2enxKGe4OnRr9trwqY-ktWZSpLNl71JE3X3P5Z1lPUwoSswLFFltuDmz4BcVQt1vyd-YueUXjw",
+		"user":"eyJhbGciOiJIUzUxMiJ9.eyJ1c2VySWQiOjAsInVzZXJOYW1lIjoidXNlcjAiLCJwYXNzd29yZCI6InVzZXIwIiwiYWRtaW4iOiIwIn0.Y2TifyMLN3ZTOFX-eUUTCO8y-GvgWEqNyJKgUrgXOYNTmq9u8gMhlJ4c-K0pzh8ERtDOfpp95OkoEcw9fLk-gQ"
+	}
   ]
   }
