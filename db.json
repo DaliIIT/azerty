@@ -25,5 +25,25 @@
       "toolName": "tool4",
       "quantity": 4
     }
+  ],
+  "users":[
+  {
+  "userId": 0,
+  "userName": "user0",
+  "password": "user0",
+  "admin": "0"
+  },  
+  {
+  "userId": 1,
+  "userName": "user1",
+  "password": "user1",
+  "admin": "1"
+  },  
+  {
+  "userId": 2,
+  "userName": "user2",
+  "password": "user2",
+  "admin": "0"
+  }
   ]
   }
